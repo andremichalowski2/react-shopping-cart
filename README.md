@@ -98,11 +98,11 @@ Before you get started, please take a few minutes and get acquainted with this a
 
   **STEP 5 - Create the CartContext**
 
-    - Now that we have refactored our `Products` component to utilize `Context API` let's refactor our `Cart` and `Navigation` Component to use `Context API` as well.
+    Now that we have refactored our `Products` component to utilize `Context API` let's refactor our `Cart` and `Navigation` Component to use `Context API` as well.
 
-    - To start create a new file in our contexts folder named `CartContext.js`, this context is going to be utilized by our `ShoppingCart` and `Navigation` component.
+    - [x]To start create a new file in our contexts folder named `CartContext.js`, this context is going to be utilized by our `ShoppingCart` and `Navigation` component.
 
-    - Inside of our new `CartContext` import `createContext` and create a new context named `CartContext`.
+    - [x] Inside of our new `CartContext` import `createContext` and create a new context named `CartContext`.
 
   **STEP 6 - Providing data with CartContext**
 

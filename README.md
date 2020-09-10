@@ -12,11 +12,11 @@
     - [x] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
 
   ### Task 1B: Dependencies:
-    - [ ] Push commits: git push origin `<firstName-lastName>`.
-    - [ ] Add your team lead as collaborator on Github.
-    - [ ] CD into the project base directory `cd react-shopping-cart`.
-    - [ ] Download project dependencies by running `npm install`.
-    - [ ] Start up the app using `npm start`.
+    - [x] Push commits: git push origin `<firstName-lastName>`.
+    - [x] Add your team lead as collaborator on Github.
+    - [x] CD into the project base directory `cd react-shopping-cart`.
+    - [x] Download project dependencies by running `npm install`.
+    - [x] Start up the app using `npm start`.
 
 ### Task 2: MVP
 
